@@ -1,0 +1,126 @@
+.card-body{
+    background-image: url("http://www.csszengarden.com/214/gridlines.png"),url("http://www.csszengarden.com/214/contours.png"),url("http://www.csszengarden.com/214/huntington.jpg");     
+    background-position: center,center,center;
+    background-size: auto,auto,cover;
+}
+#header-img{
+    padding-top: 250px;
+}
+#header-color{
+    background-color:#1D5A5F ;
+    border-bottom:3px solid #204B4E;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.side-designs{
+background:rgb(229, 237, 232);
+}
+.first-content{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 15px;
+    line-height: 32px;
+    color: #325050;
+}
+u{
+    border-bottom: 1px dotted #325050;
+    padding-bottom: 0px;
+    text-decoration: none;
+}
+.first-content h1{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 29px;
+}
+.heading-design{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 19px;
+    color: #325050;
+}
+.side-designs p{
+    color:#325050;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+}
+p em{
+    color:#c0cac3;
+}
+.second-content{
+    background-color: rgba(138, 188, 159, 0.5);
+    background-image: url("http://www.csszengarden.com/214/gridlines-opaque.png"),url("http://www.csszengarden.com/214/contours-opaque.png"),url("http://www.csszengarden.com/214/bamboo.png");
+    background-position: center,center,center;
+    background-size: auto,auto,cover;
+}
+.side-designs-2{
+    background-color:rgba(176, 207, 187, 0.5);
+    background-image: url("http://www.csszengarden.com/214/gridlines-opaque.png"),url("http://www.csszengarden.com/214/contours-opaque.png");
+    background-position: right,right;
+    background-size: auto,auto;
+}
+/* .header-trans{
+    float: left;
+}
+.card{
+    z-index: 200;
+} */
+
+/* #border-clr{
+    position: relative;
+} */
+/* #image{
+    opacity: 0.2;setting that transparent image
+} */
+/* header-trans{
+    background-color: red ;
+    width: 100%;
+    padding-top: 1px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    font-family: 'Libre Baskerville', serif;
+    margin:0;
+    padding:0;
+    font-weight: 100;
+}
+.page-header{
+background-image: url("http://www.csszengarden.com/214/gridlines.png"),url("http://www.csszengarden.com/214/contours.png"),url("http://www.csszengarden.com/214/huntington.jpg");
+height: 300px;
+background-size:auto,auto,cover; 
+/* background-repeat: no-repeat,repeat,no-repeat; */
+/* background-position:center,center,center;  */
+/* } */
+/* h1::before{
+    background-size:100%; 
+    background-image: url("http://www.csszengarden.com/214/enso.svg")
+} */
+/* h1{
+    margin: 0;
+    font-weight: 200;
+    padding-top:120px; 
+    padding-left:20px; 
+/* } */ 
